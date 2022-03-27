@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>httpclient_rpc</module>
-        <module>httpclient_rpc_server</module>
+
     </modules>
 
     <properties>

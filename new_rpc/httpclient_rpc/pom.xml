@@ -10,6 +10,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>httpclient_rpc</artifactId>
+    <modules>
+        <module>httpclient_rpc_server</module>
+        <module>httpclient_rpc_client</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
